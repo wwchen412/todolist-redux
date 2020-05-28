@@ -10,19 +10,19 @@ const {SHOW_ALL} = VisibilityFilters
 
 const initialState = [
     {
-      text: 'Use Redux',
+      text: 'Use React',
       completed: false,
       id: 0,
       editing:false
     },
     {
-        text: 'Use Redux1',
+        text: 'Learn English',
         completed: true,
         id: 1,
         editing:false
       },
       {
-        text: 'Use Redux2',
+        text: 'Use Redux',
         completed: false,
         id: 2,
         editing:false
